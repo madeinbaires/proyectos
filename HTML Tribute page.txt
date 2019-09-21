@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+    <meta charset="utf-8">
+    <title>Madonna Tribute</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+    <h1 id="title">Madonna,growing like a star</h1>
+    <main id="main">
+    <div class="container">
+    <figure id="img-div">
+            <img id="image" src='https://www.canalantigua.tv/wp-content/uploads/2019/09/Madonna-1-900x600.jpg' id="img-div">
+            <figcaption id="img-caption">Madonna se consagra como una estrella</figcaption>
+    </figure>
+        </div>
+        <div class="body">  
+    <section id="tribute-info"><h2>El timeline de Madonna</h2>
+            <h3>The Early Years</h3>
+        <ul id="list1">
+            <li>Madonna nacio el 16 d eagosto de 1958 en Bay city,Michigan</li>
+            <li>Su padre era de ascendencia franco-canadiense</li>
+            <li>En 1977 se mudo a Nueva york para realizar una carrera de danza contemporantea</li>
+            <li>En 1982 filmo con Sire records</li>
+            <li>Su carrera se vio reforzada por su papel en varias peliculas,comoEvita por la que recibio un Globo de Oro</li> 
+            <li>En 2008,la revista Bilboard la clasifico como la numero 2 del mundo</li>
+        </ul>
+            <h3>Lanzamiento a la fama mundial</h3>
+        <ul id="list2">
+            <li>En junio de 1986, se lanzó True Blue, el tercer álbum de estudio de Madonna, el cual estuvo inspirado por y dedicado a Sean Penn.</li>
+            <li>En enero de 1989, Madonna firmó un acuerdo de respaldo con el fabricante de refrescos Pepsi. Su canción «Like a Prayer» debutó en uno de los comerciales de la empresa. </li>
+            <li>En 1990, Madonna actuó como Breathless Mahoney en la película Dick Tracy, al lado de Warren Beatty como protagonista.8</li>
+            <li>En 1992, Madonna obtuvo un papel en la película A League of Their Own como Mae Mordabito, una jugadora de béisbol. </li>
+            <li>El séptimo álbum de estudio de Madonna, Ray of Light (1998), reflejó un cambio en su percepción y su imagen.128? Comentó: «este disco, más que cualquier otro, cubre todas las áreas de la vida.></li>
+            <li>En enero de 2010, Madonna interpretó «Like a Prayer» en el concierto Hope for Haiti Now: A Global Benefit for Earthquake Relief.220? En abril lanzó su tercer álbum en vivo, Sticky & Sweet Tour; aunque fue su primer lanzamiento bajo Live Nation, fue distribuido internacionalmente por Warner Music</li>
+         </ul>
+        </div>
+            <h3>El sonido del exito</h3>
+                <div class="video">
+                        <iframe width="560" height="360" src="https://www.youtube.com/watch?v=EDwb9jOVRtU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+    </main>
+    <footer><h3>Para conocer mas sobre la controvertida e imperante cantante,por favor visite <a id="tribute-link" href="https://www.madonna.com/" target="_blank">this link</a></h3></footer>
+    </section> 
+</html>
