@@ -1,0 +1,111 @@
+<link
+  rel="stylesheet"
+  href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+  integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
+  crossorigin="anonymous"
+/>
+<link
+  href="https://fonts.googleapis.com/css?family=Poppins:200i,300,400&display=swap"
+  rel="stylesheet"
+/>
+<link
+  href="https://fonts.googleapis.com/css?family=Raleway:700&display=swap"
+  rel="stylesheet"
+/>
+<nav id="navbar" class="nav">
+  <ul class="nav-list">
+    <li>
+      <a href='#welcome-section'>Bienvenidos</a></li>
+    <li>
+      <a href='#projects'>Proyectos</a>
+    </li>
+    <li>
+      <a href='#contact'>Contacto</a>
+    </li>
+  </ul>
+</nav>
+<section id="welcome-section" class="welcome-section">
+  <h1>Alejandro Michalczuk</h1>
+  <p> Desarrollador web </p>
+</section>
+<section id="projects" class="projects-section">
+  <h2 class="projects-section-header">Estos son algunos de mis proyectos</h2>
+ <div class="projects-grid">
+   <a
+      href='https://github.com/madeinbaires/proyectos/blob/master/Html%20Pagina%20Web.txt'
+     target="_blank";
+      class=" project project-tile"
+      >
+     <img
+          class="project-image"
+      src="https://s3-us-west-2.amazonaws.com/devcodepro/media/blog/por-que-tener-una-pagina-web.png"
+     alt="project">
+     <p class="project-title">
+       <span class="code">&lt;</span>
+     Pagina web estatica
+       <span class="code">&#47;&gt;</span>
+     </p>
+     </a>
+   <a href="https://github.com/madeinbaires/proyectos/blob/master/HTML%20Tribute%20page.txt" target="_blank" class="project project-tile">
+     <img
+          class="imagen-proyecto"
+          src='https://www.definicionabc.com/wp-content/uploads/tributo-250x220.jpg' class="project">
+     
+       <p class="project-title">
+        <span class="code">&lt;</span>
+         Pagina web tributo
+        <span class="code">&#47;&gt;</span>
+      </p>
+    </a>
+   <a href="https://github.com/madeinbaires/proyectos/blob/master/HTML%20Formulario%20de%20Registro.txt" target="_blank" class=" project project-tile">
+     <img
+          class="project-image"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKN8IDI9dCm4-IAoo9esCrQlP8BZNux-_K0tW8hOq0RgLGegABEQ&s" >
+     <p class="project-title">
+        <span class="code">&lt;</span>
+         Formulario de Registro
+        <span class="code">&#47;&gt;</span>
+      </p>
+    </a>  
+  <a
+  href="https://github.com/madeinbaires/proyectos"
+     class="btn btn-show-all"
+     target="_blank" class=" project project-tile"
+     >Mostrar Todos<i class="fas fa-chevron-right"></i
+  ></a>
+  </section>
+<section id="contact" class="contact-section">
+  <div class="contact-section-header">
+    <h2>Trabajemos juntos</h2>
+    <p>Formas de contacto:</p>
+  </div>
+  <div class="contact-links">
+    <a
+      href="http://www.facebook.com/ale.michal"
+      target="_blank"
+      class="btn contact-details"
+      ><i class="fab fa-facebook-square"></i> Facebook</a
+    >
+    <a
+      id="profile-link"
+      href="https://github.com/madeinbaires"
+      target="_blank"
+      class="btn contact-details"
+      ><i class="fab fa-github"></i> GitHub</a
+    >
+    
+    
+    <a href="mailto:alejandro.michal@gmail.com" class="btn contact-details"
+      ><i class="fas fa-at"></i> Mail
+    <a href="11-31909898" class="btn contact-details"
+      ><i class="fas fa-mobile-alt"></i> Telefono</a
+    >
+  </div>
+</section>
+  <footer>
+    <p>
+      **Este es un portfolio de muestra</p>
+    <p>
+      &copy;    Creado por Alejandro michalczuk <i class="fas fa-atom"></i></a>
+  </p>
+</footer>
